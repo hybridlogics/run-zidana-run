@@ -54,3 +54,6 @@ Use npm package "live-server" or any alternative local server to run this game.
             game.physics.arcade.overlap(gattuso, zidane, zidaneCollidesGattuso, null, this);
             game.physics.arcade.overlap(marco, zidane, zidaneCollidesMarco, null, this);
         }
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/19411137/d4375744-9314-11e6-829a-2426f7a1afc2.png)
